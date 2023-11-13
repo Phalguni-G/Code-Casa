@@ -1,2 +1,0 @@
-# Code-Casa
-Internship projects
